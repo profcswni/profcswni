@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**profcswni/profcswni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tutoriauml/tutoriauml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Actualmente trabajo para la Universidad Martin Lutero en Ocotal
+- 🌱 Estoy aprendiendo a gestionar GitHub Enterprise
+- 👯 Quiero colaborar en el desarrollo de nuevas habilidades para los estudiantes de la universidad
+- 🤔 Busco apoyo de parte de todo el staff para que esta iniciativa crezca
+- 💬 Pueden preguntarme sobre git, laravel, angular, github, php, html, css, etc (Web Environment)
+- 📫 Puedes contactarme pòr WA 📳+505 85371146
+- 😄 Me gusta programar en diversos lenguajes
+- ⚡ Me alegra poder ayudar a los demás!!!✨🎉🎊
